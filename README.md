@@ -1,6 +1,6 @@
 # Interop 2022: Editing, contentEditable and execCommand
 
-Work on the [editing investigate area](https://github.com/web-platform-tests/interop-2022/issues/17) for itnerop 2022.
+Work on the [editing investigate area](https://github.com/web-platform-tests/interop-2022/issues/17) for interop 2022.
 
 ## Existing Specifications
 
