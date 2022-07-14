@@ -2,6 +2,15 @@
 
 Work on the [editing investigate area](https://github.com/web-platform-tests/interop-2022/issues/17) for interop 2022.
 
+## Focus Areas
+
+The following issues document the areas that will make up the score for this investigation:
+* [Selection](https://github.com/web-platform-tests/interop-2022-editing/issues/2)
+* [Input events](https://github.com/web-platform-tests/interop-2022-editing/issues/3)
+* [IME testing](https://github.com/web-platform-tests/interop-2022-editing/issues/4)
+* [contentEditable](https://github.com/web-platform-tests/interop-2022-editing/issues/5)
+* [Async clipboard]https://github.com/web-platform-tests/interop-2022-editing/issues/6
+
 ## Existing Specifications
 
 * https://w3c.github.io/editing/docs/execCommand/
