@@ -9,7 +9,7 @@ The following issues document the areas that will make up the score for this inv
 * [Input events](https://github.com/web-platform-tests/interop-2022-editing/issues/3)
 * [IME testing](https://github.com/web-platform-tests/interop-2022-editing/issues/4)
 * [contentEditable](https://github.com/web-platform-tests/interop-2022-editing/issues/5)
-* [Async clipboard]https://github.com/web-platform-tests/interop-2022-editing/issues/6
+* [Async clipboard](https://github.com/web-platform-tests/interop-2022-editing/issues/6)
 
 ## Existing Specifications
 
